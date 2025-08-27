@@ -18,7 +18,7 @@ function CourseCard({ detail, isUserCard = false }) {
          >
             <Image
                fill
-               src="/images/coursePic.jpg"
+               src="/hoorad/images/coursePic.jpg"
                alt="course"
                className="rounded-t-2xl object-cover max-sm:object-top"
                priority
